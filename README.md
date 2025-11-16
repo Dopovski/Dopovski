@@ -13,8 +13,8 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** C++  
-- **Tools/IDEs:** CLion, NetBeans, Visual Studio Code  
+- **Languages:** C++, HTML15
+- **Tools/IDEs:** CLion, NetBeans,  
 - **Operating Systems:** Windows  
 
 ---
