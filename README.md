@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dopovski&show_icons=true&locale=en" /></p>
-
----
-
 ## 🌐 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/aleksandar-dopovski-431563361" target="_blank">
