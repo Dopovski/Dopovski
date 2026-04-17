@@ -31,8 +31,9 @@
 
 I actually like **C++**
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dopovski&theme=darkhub&no-frame=true&margin-w=10" alt="dopovski trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dopovski&show_icons=true&theme=dark&hide_border=true" alt="dopovski stats"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopovski&layout=compact&theme=dark&hide_border=true" alt="top languages"/>
 </p>
