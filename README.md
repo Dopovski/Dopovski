@@ -12,14 +12,9 @@
 |-----|-------|---|----------|-------|---------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> |
 
-## 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/aleksandar-dopovski-431563361" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35"/></a>
-<a href="https://www.instagram.com/a_dopovski/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="35"/></a>
-</p>
+| LinkedIn | Instagram |
+|----------|-----------|
+| <a href="https://www.linkedin.com/in/aleksandar-dopovski-431563361" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35"/></a> | <a href="https://www.instagram.com/a_dopovski/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="25" width="35"/></a> |
 
 ## ⚡ Fun Fact
 
