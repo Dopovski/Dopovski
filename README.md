@@ -9,12 +9,12 @@
 ## 🛠️ Skills & Tools I Use
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="30" height="30"/>;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="30" height="30"/>;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30"/>;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
 </p>
 
