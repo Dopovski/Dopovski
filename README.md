@@ -6,11 +6,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
 
-## 🛠️ Skills & Tools I Use
-
-| C++ | CLion | C | NetBeans | HTML5 | Windows | Linux |
-|-----|-------|---|----------|-------|---------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> |
+| C++ | CLion | C | NetBeans | HTML5 | Windows | Linux | SFML | Git | CMake |
+|-----|-------|---|----------|-------|---------|-------|------|-----|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sfml/sfml-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="30"/> |
 
 | LinkedIn | Instagram |
 |----------|-----------|
